@@ -1,0 +1,6 @@
+python-fitparse==2.3.0
+plotly
+ipykernel
+nbformat
+numpy
+pandas
